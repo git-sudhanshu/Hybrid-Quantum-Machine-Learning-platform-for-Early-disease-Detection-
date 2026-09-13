@@ -1,0 +1,7 @@
+streamlit>=1.37
+pennylane>=0.41,<0.46
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+joblib>=1.3
